@@ -1,0 +1,10 @@
+Level,1
+PlatformOne,0,640,400,20
+PlatformTwo,800,640,400,20
+PlatformThree,500,400,200,20
+PlatformFour,200,200,800,20
+PlatformFive,100,500,100,20
+PlatformSix,1000,500,100,20
+AlienOne,Alien1,400,640
+AlienTwo,Alien1,560,320
+AlienThree,Alien1,160,240
